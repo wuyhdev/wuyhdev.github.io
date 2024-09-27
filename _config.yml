@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Really Useful: "https://chatgpt.com/"
-  Author's home: "https://github.com/wuyhdev"
+ # Author's home: "https://github.com/wuyhdev"
 
 ################
 # --- Logo --- #
