@@ -7,7 +7,8 @@ subtitle: Why you'd want to go on a date with me
 **INFJ-A \| Highly Sensitive \| Python Dev**
 
 Experienced in **frontend** and **database** development, with **Python** as my go-to language.  
-Passionate about **ACG**, with **Asuka Langley** from **EVA** being my favorite character.
+Passionate about **ACG**, with **Asuka Langley** from **EVA** being my favorite character.  
+Also a movie buff, with my [**Top 10 Movies**](https://www.douban.com/doulist/149957537/).
 
 
 ### My story
