@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: "_I am Jack's broken heart_"
+subtitle: _"I am Jack's broken heart"_
 ---
 
 **INFJ-A \| Highly Sensitive \| Python Dev**
