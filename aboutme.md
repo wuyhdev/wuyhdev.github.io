@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-**INFJ-A | Highly Sensitive | Python Dev**
+**INFJ-A \| Highly Sensitive \| Python Dev**
 
 Experienced in **frontend** and **database** development, with **Python** as my go-to language.  
 Passionate about **ACG**, with **Asuka Langley** from **EVA** being my favorite character.
