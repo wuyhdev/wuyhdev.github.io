@@ -4,12 +4,9 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+**INFJ-A | Highly Sensitive | Python Dev**  
+Experienced in **frontend** and **database** development, with **Python** as my go-to language. Passionate about **ACG**, especially inspired by **Asuka Langley** from **EVA**.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
 
 ### My story
 
